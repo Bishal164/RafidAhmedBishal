@@ -5,17 +5,13 @@ width:10 px ;
 }
 
 div {
- <style>
-#grad1 {
   height: 200px;
   background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
-}
-</style>
+
+
 color:green;
-background-color:gold;
+
 padding:20;
-margin: 5px;
-border:10px  solid orange ;
 
 
  }
