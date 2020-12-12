@@ -1,13 +1,15 @@
 h2{
-color:navy blue;
+color:navy;
 
 width:10 px ;
 }
 
 div {
-  height: 200px;
-  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
-
+color:green;
+background-color: gold;
+padding:20;
+margin: 5px;
+border:10px solid orange ;
 
 
  }
@@ -25,8 +27,3 @@ color: deep-orange ;
  h4 { 
  color:navy;
  }
-
-
-
- 
-
